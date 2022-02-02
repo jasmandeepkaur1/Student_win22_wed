@@ -6,7 +6,7 @@
 package student_win22_wed;
 
 /**
- *
+ * date jan 26 2022
  * @author jasmandeepkaur
  */
 public class Student {
